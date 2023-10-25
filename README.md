@@ -1,1 +1,2 @@
-# address-extractor-from-tweets
+# Address Extractor from Emergency Aid Tweets after Earthquake
+It is a code that creates a Google Sheets table by extracting the addresses from the emergency aid tweets sent after the earthquake disaster in our country in February 2023. The extraction process was done with the help of Open AI API and text-davinci-003 engine. The table is updated periodically and the addresses that need help mentioned in emergency tweets are added to the table. When the data in the table reached a certain level, it was shared with the authorities and saved the lives of many people.
